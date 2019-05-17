@@ -1,0 +1,526 @@
+[Fri, 19 Apr 2019 14:16:15-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"appium:deviceName": "V1818A", "appium:appActivity": ".ui.activity.MainActivity", "platformName": "Android", "appium:appPackage": "com.fotron.bsb", "appium:platformVersion": "8.1.0"}]}, "desiredCapabilities": {"platformVersion": "8.1.0", "deviceName": "V1818A", "platformName": "Android", "appActivity": ".ui.activity.MainActivity", "appPackage": "com.fotron.bsb"}}]
+[Fri, 19 Apr 2019 14:16:15-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:33-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 682]
+[Fri, 19 Apr 2019 14:16:33-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:33-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element {"using": "xpath", "sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "value": "//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.view.View[2]"}]
+[Fri, 19 Apr 2019 14:16:33-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:34-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element HTTP/1.1" 200 67]
+[Fri, 19 Apr 2019 14:16:34-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:34-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/1/click {"sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "id": "1"}]
+[Fri, 19 Apr 2019 14:16:34-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:35-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/1/click HTTP/1.1" 200 14]
+[Fri, 19 Apr 2019 14:16:35-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:35-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element {"using": "xpath", "sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "value": "//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.TextView[contains(@text,'\u767b\u5f55')]"}]
+[Fri, 19 Apr 2019 14:16:35-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:35-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element HTTP/1.1" 200 67]
+[Fri, 19 Apr 2019 14:16:35-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:35-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/2/click {"sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "id": "2"}]
+[Fri, 19 Apr 2019 14:16:35-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:39-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/2/click HTTP/1.1" 200 14]
+[Fri, 19 Apr 2019 14:16:39-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:39-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element {"using": "id", "sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "value": "com.fotron.bsb:id/btn_wx_login"}]
+[Fri, 19 Apr 2019 14:16:39-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:39-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element HTTP/1.1" 200 67]
+[Fri, 19 Apr 2019 14:16:39-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:39-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/3/click {"sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "id": "3"}]
+[Fri, 19 Apr 2019 14:16:39-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:40-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/3/click HTTP/1.1" 200 14]
+[Fri, 19 Apr 2019 14:16:40-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:40-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element {"using": "id", "sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "value": "com.fotron.bsb:id/tv_me_id"}]
+[Fri, 19 Apr 2019 14:16:40-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:41-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element HTTP/1.1" 200 67]
+[Fri, 19 Apr 2019 14:16:41-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:41-remote_connection.py-DEBUG:GET http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/4/text {"sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "id": "4"}]
+[Fri, 19 Apr 2019 14:16:41-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:41-connectionpool.py-DEBUG:http://127.0.0.1:4723 "GET /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/4/text HTTP/1.1" 200 23]
+[Fri, 19 Apr 2019 14:16:41-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:41-remote_connection.py-DEBUG:POST http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element {"using": "id", "sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "value": "com.fotron.bsb:id/tv_me_id"}]
+[Fri, 19 Apr 2019 14:16:41-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:41-connectionpool.py-DEBUG:http://127.0.0.1:4723 "POST /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element HTTP/1.1" 200 67]
+[Fri, 19 Apr 2019 14:16:41-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:41-remote_connection.py-DEBUG:GET http://127.0.0.1:4723/wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/5/text {"sessionId": "8d01b2a9-0743-445f-a088-1c0963251dc5", "id": "5"}]
+[Fri, 19 Apr 2019 14:16:41-connectionpool.py-DEBUG:Starting new HTTP connection (1): 127.0.0.1:4723]
+[Fri, 19 Apr 2019 14:16:41-connectionpool.py-DEBUG:http://127.0.0.1:4723 "GET /wd/hub/session/8d01b2a9-0743-445f-a088-1c0963251dc5/element/5/text HTTP/1.1" 200 23]
+[Fri, 19 Apr 2019 14:16:41-remote_connection.py-DEBUG:Finished Request]
+[Fri, 19 Apr 2019 14:16:41-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 14:18:31-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 14:18:57-BsbUI.py-INFO:Message: The URL '/wd/hub1/session' did not map to a valid resource
+]
+[Fri, 19 Apr 2019 14:19:44-BsbUI.py-INFO:Message: An element could not be located on the page using the given search parameters.
+]
+[Fri, 19 Apr 2019 14:21:18-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 14:21:30-BsbUI.py-ERROR:Message: The URL '/wd/hub1/session' did not map to a valid resource
+]
+[Fri, 19 Apr 2019 14:22:26-BsbUI.py-ERROR:Message: javax.xml.transform.TransformerException: Extra illegal tokens: '1'
+]
+[Fri, 19 Apr 2019 14:25:24-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 14:25:47-BsbUI.py-ERROR:Message: The URL '/wd/hub1/session' did not map to a valid resource
+]
+[Fri, 19 Apr 2019 14:26:33-BsbUI.py-ERROR:None]
+[Fri, 19 Apr 2019 14:27:38-BsbUI.py-ERROR:None]
+[Fri, 19 Apr 2019 14:32:07-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 31, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 18, in login
+    driver = webdriver.Remote('http://localhost:4723/wd/hub1', desired_caps)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 129, in __init__
+    proxy
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 204, in start_session
+    response = self.execute(RemoteCommand.NEW_SESSION, parameters)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 208, in check_response
+    raise exception_class(value)
+WebDriverException: Message: The URL '/wd/hub1/session' did not map to a valid resource
+
+[Fri, 19 Apr 2019 14:32:07-BsbUI.py-ERROR:None]
+[Fri, 19 Apr 2019 14:33:00-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 31, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 18, in login
+    driver = webdriver.Remote('http://localhost:4723/wd/hub1', desired_caps)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 129, in __init__
+    proxy
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 204, in start_session
+    response = self.execute(RemoteCommand.NEW_SESSION, parameters)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 208, in check_response
+    raise exception_class(value)
+WebDriverException: Message: The URL '/wd/hub1/session' did not map to a valid resource
+
+[Fri, 19 Apr 2019 14:33:36-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 31, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 20, in login
+    driver.find_element_by_xpath("//1hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.view.View[2]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+InvalidSelectorException: Message: javax.xml.transform.TransformerException: A location step was expected following the '/' or '//' token.
+
+[Fri, 19 Apr 2019 16:51:54-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 17:03:40-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 17:06:30-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 17:07:48-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 17:09:44-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 17:10:41-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 17:11:51-BsbUI.py-INFO:用户id正确]
+[Fri, 19 Apr 2019 18:09:35-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:09:39-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:09:41-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:09:42-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 50, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 29, in login
+    logging.info('校验用户id'+userout+',用户id正确')
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe6 in position 0: ordinal not in range(128)
+[Fri, 19 Apr 2019 18:16:40-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:16:44-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:16:46-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:16:46-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 52, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 31, in login
+    logging.info('校验用户id：'+unicode(userout)+',用户id正确')
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe6 in position 0: ordinal not in range(128)
+[Fri, 19 Apr 2019 18:18:01-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:18:05-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:18:07-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:19:20-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 52, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 31, in login
+    logging.info('校验用户id：'+unicode(userout)+',用户id正确')
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe6 in position 0: ordinal not in range(128)
+[Fri, 19 Apr 2019 18:23:56-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:24:00-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:24:02-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:24:03-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 18:24:03-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:26:10-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:26:14-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:26:16-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:26:44-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 18:26:45-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:29:13-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:29:17-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:29:18-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:29:46-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 18:29:47-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:31:06-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:31:10-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:31:12-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:31:12-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 18:31:13-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:34:46-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:34:50-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:34:52-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:34:53-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 18:34:53-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:34:55-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 18:42:09-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:42:13-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:42:14-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:42:15-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 18:42:15-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:42:18-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 18:43:35-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:43:39-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:43:41-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:43:42-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:43:45-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 18:51:26-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 18:51:30-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 18:51:32-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 18:51:32-BsbUI.py-INFO:用户id不正确]
+[Fri, 19 Apr 2019 18:51:33-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 18:51:35-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 19:16:01-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:16:01-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:16:05-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:16:07-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:16:07-BsbUI.py-INFO:用户id不正确,你的id为：ID:61160909]
+[Fri, 19 Apr 2019 19:16:08-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:16:10-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 19:17:22-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:17:22-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:17:26-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:17:27-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:18:01-BsbUI.py-INFO:用户id不正确,你的id为：ID:61160909]
+[Fri, 19 Apr 2019 19:18:01-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:18:53-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 19:19:44-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:19:44-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:19:48-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:19:49-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:20:37-BsbUI.py-INFO:用户id不正确,你的id为：ID:61160909]
+[Fri, 19 Apr 2019 19:20:39-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:21:17-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 19:22:32-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:22:32-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:22:36-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:22:38-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:22:45-BsbUI.py-INFO:用户id不正确,你的id为：ID:61160909]
+[Fri, 19 Apr 2019 19:22:46-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:23:08-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 19:23:53-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:23:53-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:23:57-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:23:58-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:24:02-BsbUI.py-INFO:用户id不正确,你的id为：ID:61160909]
+[Fri, 19 Apr 2019 19:24:03-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:24:21-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 63, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 53, in login
+    logging('向下滑动正常，闪兑专区没有显示出来')
+TypeError: 'module' object is not callable
+[Fri, 19 Apr 2019 19:26:52-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:26:52-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:26:56-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:26:57-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:26:58-BsbUI.py-INFO:用户id不正确,你的id为：ID:61160909]
+[Fri, 19 Apr 2019 19:26:58-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:27:00-BsbUI.py-INFO:向下滑动正常，闪兑专区没有显示出来]
+[Fri, 19 Apr 2019 19:32:57-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:32:57-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:33:01-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:33:02-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:33:03-BsbUI.py-INFO:用户id不正确,你的id为：ID:61160909]
+[Fri, 19 Apr 2019 19:33:03-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:33:06-BsbUI.py-INFO:向下滑动正常，闪兑专区没有显示出来]
+[Fri, 19 Apr 2019 19:48:47-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:48:47-BsbUI.py-INFO:点击我的正常跳转]
+[Fri, 19 Apr 2019 19:48:51-BsbUI.py-INFO:点击登录正常跳转]
+[Fri, 19 Apr 2019 19:48:53-BsbUI.py-INFO:点击微信登录]
+[Fri, 19 Apr 2019 19:49:04-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 19:49:10-BsbUI.py-INFO:点击首页正常跳转]
+[Fri, 19 Apr 2019 19:49:20-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 19:49:58-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 67, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 57, in login
+    remen = driver.find_element_by_xpath('//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[2]/android.widget.ScrollView/android.widget.LinearLayout/android.support.v7.widget.RecyclerView/android.widget.LinearLayout[3]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView').text
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Fri, 19 Apr 2019 19:55:29-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 19:55:29-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Fri, 19 Apr 2019 19:55:32-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Fri, 19 Apr 2019 19:55:34-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Fri, 19 Apr 2019 19:55:46-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 19:55:47-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Fri, 19 Apr 2019 19:55:55-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 19:56:22-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 71, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 58, in login
+    remen = driver.find_element_by_xpath('//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[2]/android.widget.ScrollView/android.widget.LinearLayout/android.support.v7.widget.RecyclerView/android.widget.LinearLayout[3]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView').text
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Fri, 19 Apr 2019 20:01:14-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 20:01:14-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Fri, 19 Apr 2019 20:01:18-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Fri, 19 Apr 2019 20:01:20-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Fri, 19 Apr 2019 20:01:24-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 20:01:26-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Fri, 19 Apr 2019 20:01:33-BsbUI.py-INFO:向下滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 20:02:15-BsbUI.py-INFO:向上滑动正常]
+[Fri, 19 Apr 2019 20:48:59-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 20:48:59-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Fri, 19 Apr 2019 20:49:03-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Fri, 19 Apr 2019 20:49:04-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Fri, 19 Apr 2019 20:49:05-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 20:49:05-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Fri, 19 Apr 2019 20:49:07-BsbUI.py-INFO:向下滑动正常，闪兑专区没有显示出来]
+[Fri, 19 Apr 2019 20:49:08-BsbUI.py-INFO:滑动不成功还在底部]
+[Fri, 19 Apr 2019 20:49:08-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 71, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 65, in login
+    driver.find_element_by_id("com.fotron.bsb:id/tv_get_more[2]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Fri, 19 Apr 2019 20:53:45-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 20:53:45-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Fri, 19 Apr 2019 20:53:49-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Fri, 19 Apr 2019 20:53:51-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Fri, 19 Apr 2019 20:53:53-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 20:53:56-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Fri, 19 Apr 2019 20:54:05-BsbUI.py-INFO:向上滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 20:54:22-BsbUI.py-INFO:向上滑动正常]
+[Fri, 19 Apr 2019 20:54:28-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 71, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 65, in login
+    driver.find_element_by_id("com.fotron.bsb:id/tv_get_more[2]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Fri, 19 Apr 2019 20:59:59-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 20:59:59-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Fri, 19 Apr 2019 21:00:03-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Fri, 19 Apr 2019 21:00:05-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Fri, 19 Apr 2019 21:00:06-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 21:00:06-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Fri, 19 Apr 2019 21:00:08-BsbUI.py-INFO:向上滑动不正常，闪兑专区没有显示出来]
+[Fri, 19 Apr 2019 21:00:08-BsbUI.py-INFO:滑动不成功还在底部]
+[Fri, 19 Apr 2019 21:00:09-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 71, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 65, in login
+    driver.find_element_by_id('/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[2]/android.widget.ScrollView/android.widget.LinearLayout/android.support.v7.widget.RecyclerView/android.widget.LinearLayout[3]/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.TextView').click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Fri, 19 Apr 2019 21:02:24-BsbUI.py-INFO:=======================================================================]
+[Fri, 19 Apr 2019 21:02:24-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Fri, 19 Apr 2019 21:02:28-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Fri, 19 Apr 2019 21:02:30-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Fri, 19 Apr 2019 21:02:46-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Fri, 19 Apr 2019 21:02:47-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Fri, 19 Apr 2019 21:02:52-BsbUI.py-INFO:向上滑动正常，闪兑专区显示出来]
+[Fri, 19 Apr 2019 21:02:57-BsbUI.py-INFO:向下滑动正常]
+[Mon, 22 Apr 2019 21:38:48-BsbUI.py-INFO:=======================================================================]
+[Mon, 22 Apr 2019 21:38:48-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Mon, 22 Apr 2019 21:38:52-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Mon, 22 Apr 2019 21:38:54-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Mon, 22 Apr 2019 21:38:55-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Mon, 22 Apr 2019 21:38:55-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Mon, 22 Apr 2019 21:38:57-BsbUI.py-INFO:向上滑动不正常，闪兑专区没有显示出来]
+[Mon, 22 Apr 2019 21:38:57-BsbUI.py-INFO:滑动不成功还在底部]
+[Mon, 22 Apr 2019 21:39:01-BsbUI.py-INFO:进入更多页面]
+[Mon, 22 Apr 2019 21:42:46-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 74, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 22, in login
+    driver.find_element_by_xpath("//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.view.View[2]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Mon, 22 Apr 2019 21:44:33-BsbUI.py-INFO:=======================================================================]
+[Mon, 22 Apr 2019 21:44:34-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Mon, 22 Apr 2019 21:44:38-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Mon, 22 Apr 2019 21:44:41-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Mon, 22 Apr 2019 21:44:54-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Mon, 22 Apr 2019 21:44:56-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Mon, 22 Apr 2019 21:45:02-BsbUI.py-INFO:向上滑动正常，闪兑专区显示出来]
+[Mon, 22 Apr 2019 21:45:10-BsbUI.py-INFO:向下滑动正常]
+[Mon, 22 Apr 2019 21:45:49-BsbUI.py-INFO:进入更多页面]
+[Mon, 22 Apr 2019 22:00:32-BsbUI.py-INFO:=======================================================================]
+[Mon, 22 Apr 2019 22:00:33-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Mon, 22 Apr 2019 22:00:37-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Mon, 22 Apr 2019 22:00:38-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Mon, 22 Apr 2019 22:00:42-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Mon, 22 Apr 2019 22:00:43-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Mon, 22 Apr 2019 22:01:46-BsbUI.py-INFO:向上滑动不正常，闪兑专区没有显示出来]
+[Mon, 22 Apr 2019 22:01:51-BsbUI.py-INFO:滑动不成功还在底部]
+[Mon, 22 Apr 2019 22:01:55-BsbUI.py-INFO:进入更多页面]
+[Tue, 23 Apr 2019 10:48:53-BsbUI.py-INFO:=======================================================================]
+[Tue, 23 Apr 2019 10:48:54-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Tue, 23 Apr 2019 10:48:58-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Tue, 23 Apr 2019 10:49:00-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Tue, 23 Apr 2019 10:49:07-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Tue, 23 Apr 2019 10:49:10-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Tue, 23 Apr 2019 10:49:28-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 80, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 50, in login
+    zhuanqu = driver.find_element_by_id("com.fotron.bsb:id/tv_special_area_name[contains(@instance,'14')]").text
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Tue, 23 Apr 2019 11:15:32-BsbUI.py-INFO:=======================================================================]
+[Tue, 23 Apr 2019 11:15:33-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Tue, 23 Apr 2019 11:15:37-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Tue, 23 Apr 2019 11:15:39-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Tue, 23 Apr 2019 11:15:41-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Tue, 23 Apr 2019 11:15:44-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Tue, 23 Apr 2019 11:16:24-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 81, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 50, in login
+    zhuanqu = driver.find_element_by_class_name("android.widget.TextView[@instance='14']").text
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Tue, 23 Apr 2019 11:19:26-BsbUI.py-INFO:=======================================================================]
+[Tue, 23 Apr 2019 11:19:28-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Tue, 23 Apr 2019 11:19:31-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Tue, 23 Apr 2019 11:19:33-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Tue, 23 Apr 2019 11:19:38-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Tue, 23 Apr 2019 11:19:42-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Tue, 23 Apr 2019 11:20:59-BsbUI.py-INFO:向上滑动不正常，闪兑专区没有显示出来]
+[Tue, 23 Apr 2019 11:20:59-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 81, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 65, in login
+    remen = driver.find_element_by_xpath('//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[2]/android.widget.ScrollView/android.widget.LinearLayout/android.support.v7.widget.RecyclerView/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.TextView[1]').text
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+InvalidSessionIdException: Message: A session is either terminated or not started
+
+[Tue, 23 Apr 2019 11:27:02-BsbUI.py-INFO:=======================================================================]
+[Tue, 23 Apr 2019 11:27:04-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Tue, 23 Apr 2019 11:27:08-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Tue, 23 Apr 2019 11:27:10-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Tue, 23 Apr 2019 11:27:25-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Tue, 23 Apr 2019 11:27:27-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Tue, 23 Apr 2019 11:28:02-BsbUI.py-INFO:向上滑动正常，闪兑专区显示出来]
+[Tue, 23 Apr 2019 11:28:26-BsbUI.py-INFO:向下滑动正常]
+[Tue, 23 Apr 2019 11:28:34-BsbUI.py-INFO:进入更多页面]
+[Tue, 23 Apr 2019 11:32:04-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 81, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 74, in login
+    driver.find_element_by_xpath("//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.support.v7.app.ActionBar.Tab[1]/android.widget.TextView[contains(@text,'新手专区')]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Tue, 23 Apr 2019 12:06:00-BsbUI.py-INFO:=======================================================================]
+[Tue, 23 Apr 2019 12:06:01-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Tue, 23 Apr 2019 12:06:05-BsbUI.py-INFO:在我的登录界面，点击登录按钮正常跳转到微信登录界面]
+[Tue, 23 Apr 2019 12:06:07-BsbUI.py-INFO:点击微信登录，用户正常登录成功]
+[Tue, 23 Apr 2019 12:06:13-BsbUI.py-INFO:校验用户id：ID:61160909,用户id正确]
+[Tue, 23 Apr 2019 12:06:13-BsbUI.py-INFO:点击首页按钮，正常跳转首页界面]
+[Tue, 23 Apr 2019 12:06:18-BsbUI.py-INFO:向上滑动不正常，闪兑专区没有显示出来]
+[Tue, 23 Apr 2019 12:06:20-BsbUI.py-INFO:滑动不成功还在底部]
+[Tue, 23 Apr 2019 12:06:28-BsbUI.py-INFO:进入更多页面]
