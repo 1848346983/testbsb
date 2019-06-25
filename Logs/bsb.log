@@ -524,3 +524,89 @@ NoSuchElementException: Message: An element could not be located on the page usi
 [Tue, 23 Apr 2019 12:06:18-BsbUI.py-INFO:向上滑动不正常，闪兑专区没有显示出来]
 [Tue, 23 Apr 2019 12:06:20-BsbUI.py-INFO:滑动不成功还在底部]
 [Tue, 23 Apr 2019 12:06:28-BsbUI.py-INFO:进入更多页面]
+[Mon, 24 Jun 2019 22:20:01-BsbUI.py-INFO:=======================================================================]
+[Mon, 24 Jun 2019 22:20:03-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 84, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 23, in login
+    driver.find_element_by_xpath("//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.view.View[2]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Mon, 24 Jun 2019 22:22:26-BsbUI.py-INFO:=======================================================================]
+[Mon, 24 Jun 2019 22:22:28-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 84, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 23, in login
+    driver.find_element_by_xpath("//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.view.View[4]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 258, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Mon, 24 Jun 2019 22:36:05-BsbUI.py-INFO:=======================================================================]
+[Mon, 24 Jun 2019 22:36:07-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 84, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 23, in login
+    driver.find_element_by_xpath("//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.view.View[4]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 272, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Tue, 25 Jun 2019 09:46:04-BsbUI.py-INFO:=======================================================================]
+[Tue, 25 Jun 2019 09:46:06-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 84, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 23, in login
+    driver.find_element_by_xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.view.View[4]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 272, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[Tue, 25 Jun 2019 10:18:47-BsbUI.py-INFO:=======================================================================]
+[Tue, 25 Jun 2019 10:18:55-BsbUI.py-INFO:点击我的按钮，正常跳转到我的界面]
+[Tue, 25 Jun 2019 10:18:55-BsbUI.py-ERROR:None]
+Traceback (most recent call last):
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 85, in <module>
+    logining.login()
+  File "D:/PycharmProjects/testbsb/BsbUI.py", line 27, in login
+    driver.find_element_by_xpath("//hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.TextView[contains(@text,'登录')]").click()
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 272, in find_element
+    'value': value})['value']
+  File "C:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python27\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
